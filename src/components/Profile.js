@@ -1,7 +1,7 @@
 
 import React from "react";
 
-// profile component that takes a person object as a prop and displays their information
+
 const Profile = ({ person }) => {
   return (
     <div>
